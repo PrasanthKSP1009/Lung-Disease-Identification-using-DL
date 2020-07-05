@@ -2,7 +2,7 @@
 
 To classify whether the lungs is normal or abnormal using X-ray images
 
-#Lung Disease Identification
+Lung Disease Identification
 
 Collect the required training images and create a folder under /Lung Disease Identifiction using DL/training_images/ and the folder should contain atleast 100 images for training the model.
 
